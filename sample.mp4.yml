@@ -1,0 +1,10 @@
+duration: 5533
+framerate: 30.0
+aspect_ratio: 1.750
+timecode: '00:00:00:00'
+ikegami: false
+files:
+  - path: 'source/sample.mp4'
+    audio_track_count: 1
+    video_track_count: 1
+
